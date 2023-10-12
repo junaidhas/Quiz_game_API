@@ -4,7 +4,10 @@ Welcome to the Python Quiz Game repository! This game challenges players with a 
 
 **Game Demo Image/GIF**
 
-![Quiz_game_demo_1 (2)](https://github.com/junaidhas/Quiz_game_API/assets/97498014/359ff4d2-3c8e-4b0d-876f-9f6cb58d076f)
+
+
+https://github.com/junaidhas/Quiz_game_API/assets/97498014/c5cabf79-75f3-4bf5-92bb-3b5e3d365400
+
 
 
 
